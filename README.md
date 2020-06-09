@@ -1,5 +1,4 @@
 # Epidemic Corpus (EPIC)
-A large collection of over 20 million epidemic-related tweets
 
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
 <br>
@@ -11,7 +10,12 @@ Since the start of COVID-19, several relevant corpora from various sources are p
 ## EPIC
 
 Here we present _EPIC_, a large-scale epidemic corpus that contains over 20 millions tweets, spanned from year 2006 to 2020.
-There are two subsets within the corpus, namely general and outbreaks. The general set contains 3 epidemics, namely Ebola, Cholera and Swine Flu; the outbreak set contains 6 epidemic outbreaks, as follows:
+There are two subsets within the corpus, namely general and outbreaks. The general set contains 3 epidemics, namely: 
+* [Ebola](https://www.who.int/health-topics/ebola/)
+* [Cholera](https://www.who.int/health-topics/cholera)
+* [Swine Flu](https://www.who.int/mediacentre/news/statements/2009/h1n1_20090427/en/)
+
+The outbreak set contains 6 epidemic outbreaks, as follows:
 
 * [2009 H1N1 Swine Flu](https://www.who.int/csr/disease/swineflu/en/)
 * [2010 Haiti Cholera](https://www.who.int/csr/don/2010_10_26/en/)
