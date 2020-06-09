@@ -10,7 +10,7 @@ Since the start of COVID-19, several relevant corpora from various sources are p
 
 ## EPIC
 
-Here we present \textit{EPIC}, a large-scale epidemic corpus that contains over 20 millions tweets, spanned from year 2006 to 2020.
+Here we present _EPIC_, a large-scale epidemic corpus that contains over 20 millions tweets, spanned from year 2006 to 2020.
 There are two subsets within the corpus, namely general and outbreaks. The general set contains 3 epidemics, namely Ebola, Cholera and Swine Flu; the outbreak set contains 6 epidemic outbreaks, as follows:
 
 * [2009 H1N1 Swine Flu](https://www.who.int/csr/disease/swineflu/en/)
