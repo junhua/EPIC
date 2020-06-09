@@ -47,7 +47,6 @@ If your publication uses the data, either in full or in part, you should cite th
 @article{liu2019ipod,
     title={EPIC: An Epidemics Corpus Of Over 20 Million Relevant Tweets},
     author={Junhua Liu and Trisha Singhal and Lucienne T.M. Blessing and Kristin L. Wood and Kwan Hui Lim},
-    year={2020},
-    journal={arXiv preprint}
+    year={2020}
 }
 ```
