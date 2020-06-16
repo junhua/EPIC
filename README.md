@@ -1,5 +1,6 @@
 # Epidemic Corpus (EPIC)
 A repository of over 20 millions epidemic related tweets
+<br>
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
 <br>
 
