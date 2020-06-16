@@ -48,9 +48,10 @@ You may download the corpus with the following: [Link1](https://drive.google.com
 If your publication uses the data, either in full or in part, you should cite the paper below:
 
 ```
-@article{liu2019ipod,
-    title={EPIC: An Epidemics Corpus Of Over 20 Million Relevant Tweets},
-    author={Junhua Liu and Trisha Singhal and Lucienne T.M. Blessing and Kristin L. Wood and Kwan Hui Lim},
-    year={2020}
+@article{liu2020epic,
+  title={EPIC: An Epidemics Corpus Of Over 20 Million Relevant Tweets},
+  author={Liu, Junhua and Singhal, Trisha and Blessing, Lucienne T.M. and Wood, Kristin L. and Lim, Kwan Hui},
+  journal={arXiv preprint  arXiv:2006.08369},
+  year={2020}
 }
 ```
