@@ -1,6 +1,4 @@
 # Epidemic Corpus (EPIC)
-
-<br>
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
 <br>
 
