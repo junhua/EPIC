@@ -1,7 +1,8 @@
-# Epidemic Corpus (EPIC)
+# EPIC30M: an epidemic corpus of over 30 million relevant tweets
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
 <br>
-
+Download: [Link1](https://drive.google.com/file/d/1dH2VkWIGswcd-ZAutZVQW1_0VOZUBYxT/view?usp=sharing)
+<br>
 ## Context
 
 Since the start of COVID-19, several relevant corpora from various sources are presented in the literature that contain millions of data points. While these corpora are valuable in supporting many analysis on this specific pandemic, researchers require additional benchmark corpora that contain other epidemics to facilitate cross-epidemic pattern recognition and trend analysis tasks. During our other efforts on COVID-19 related work, we discover very little disease related corpora in the literature that are sizable and rich enough to support such cross-epidemic analysis tasks.
@@ -42,13 +43,11 @@ Each class of data is contained by a single CSV file named after the respective 
 
 This data is intended to support only for academic research purporses and may not be used for any commercial purposes, by any commercial entity, or by any party, unless otherwised authorized by the authors. 
 
-You may download the corpus with the following: [Link1](https://drive.google.com/file/d/1d5Zx6iU-e8DQibZd5ksvyYs_5FodBlMs/view?usp=sharing)
-
 If your publication uses the data, either in full or in part, you should cite the paper below:
 
 ```
 @article{liu2020epic,
-  title={EPIC: An Epidemics Corpus Of Over 20 Million Relevant Tweets},
+  title={EPIC30M: An Epidemics Corpus Of Over 30 Million Relevant Tweets},
   author={Liu, Junhua and Singhal, Trisha and Blessing, Lucienne T.M. and Wood, Kristin L. and Lim, Kwan Hui},
   journal={arXiv preprint  arXiv:2006.08369},
   year={2020}
