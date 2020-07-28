@@ -49,7 +49,8 @@ Each class of data is contained by a single CSV file named after the respective 
 | text | string | H1N1 + H1N5 = Trouble... | The content of a tweet that contains up to 280 characters. |
 | mentions | string | @cyberlou33 | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. |
 | hashtags | string | #panflu | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search |
-
+| id | string | 1136281607 | A unique identifier of a tweet |
+| permalink | string | https://twitter.com/douance_quebec/status/1096080744 | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. |
 
 ## Usage
 
