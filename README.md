@@ -26,19 +26,19 @@ The outbreak set contains 6 epidemic outbreaks, as follows:
 
 Each class of data is contained by a single CSV file named after the respective event. Each file contains comma-separated fields per line, where not all files may have a value. The list of fields are as follows:
 
-|    Field     |     Type    |    Sample     |          Description           |
-| ------------ | ----------- | ------------- | ------------------------------ |
-|     date     |   datetime (in UTC)  |  4/2/09 17:06 | The date and time that the tweet was posted |
-| username | string | douance_quebec | Unique username of the user account that posted the tweet |
-| to | string | CedricFontaine | The twitter account's username that the tweet that was posted to |
-| replies | integer | 3 | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. |
-| retweets | integer | 3 | The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. |
-| favorites | integer | 3 | The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. |
-| text | string | H1N1 + H1N5 = Trouble... | The content of a tweet that contains up to 280 characters. |
-| mentions | string | @cyberlou33 | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. |
-| hashtags | string | #panflu | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search |
-| id | string | 1136281607 | A unique identifier of a tweet |
-| permalink | string | https://twitter.com/douance_quebec/ <br /> status/1096080744 | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. |
+|    Field     |     Type    |          Description           |
+| ------------ | ----------- | ------------------------------ |
+|     date     |   datetime (in UTC) | The date and time that the tweet was posted. <br /> Example: 4/2/09 17:06|
+| username | string | douance_quebec | Unique username of the user account that posted the tweet <br /> Example: |
+| to | string | CedricFontaine | The twitter account's username that the tweet that was posted to <br /> Example:|
+| replies | integer | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. <br /><br /> Example: 3 |
+| retweets | integer |  The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. <br /><br /> Example: 3 |
+| favorites | integer |  The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. <br /><br/> Example: 3 |
+| text | string | The content of a tweet that contains up to 280 characters. <br /><br /> Example: H1N1 + H1N5 = Trouble... |
+| mentions | string | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. <br /><br /> Example: @cyberlou33 |
+| hashtags | string | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search <br /><br /> Example: #panflu |
+| id | string |  A unique identifier of a tweet. <br /><br /> Example: 1136281607 |
+| permalink | string | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. <br /><br /> Example: https://twitter.com/douance_quebec/status/1096080744 |
 
 ## Usage
 
