@@ -26,18 +26,6 @@ The outbreak set contains 6 epidemic outbreaks, as follows:
 
 Each class of data is contained by a single CSV file named after the respective event. Each file contains comma-separated fields per line, where not all files may have a value. The list of fields are as follows:
 
-* date
-* username	
-* to
-* replies
-* retweets
-* favorites
-* text
-* mentions
-* hashtags
-* id
-* permalink
-
 |    Field     |     Type    |    Sample     |          Description           |
 | ------------ | ----------- | ------------- | ------------------------------ |
 |     date     |   datetime (in UTC)  |  4/2/09 17:06 | The date and time that the tweet was posted |
@@ -50,7 +38,7 @@ Each class of data is contained by a single CSV file named after the respective 
 | mentions | string | @cyberlou33 | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. |
 | hashtags | string | #panflu | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search |
 | id | string | 1136281607 | A unique identifier of a tweet |
-| permalink | string | https://twitter.com/douance_quebec/status/1096080744 | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. |
+| permalink | string | https://twitter.com/douance_quebec/ <br /> status/1096080744 | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. |
 
 ## Usage
 
