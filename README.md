@@ -28,17 +28,17 @@ Each class of data is contained by a single CSV file named after the respective 
 
 |    Field     |     Type    |          Description           |
 | ------------ | ----------- | ------------------------------ |
-|     date     |   datetime (in UTC) | The date and time that the tweet was posted. <br /> Example: 4/2/09 17:06|
-| username | string | douance_quebec | Unique username of the user account that posted the tweet <br /> Example: |
+|     date     |   datetime (in UTC) | The date and time that the tweet was posted. <br /> Example: 4/2/09 17:06 |
+| username | string | Unique username of the user account that posted the tweet <br /> Example: douance_quebec |
 | to | string | CedricFontaine | The twitter account's username that the tweet that was posted to <br /> Example:|
-| replies | integer | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. <br /><br /> Example: 3 |
-| retweets | integer |  The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. <br /><br /> Example: 3 |
-| favorites | integer |  The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. <br /><br/> Example: 3 |
-| text | string | The content of a tweet that contains up to 280 characters. <br /><br /> Example: H1N1 + H1N5 = Trouble... |
-| mentions | string | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. <br /><br /> Example: @cyberlou33 |
-| hashtags | string | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search <br /><br /> Example: #panflu |
-| id | string |  A unique identifier of a tweet. <br /><br /> Example: 1136281607 |
-| permalink | string | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. <br /><br /> Example: https://twitter.com/douance_quebec/status/1096080744 |
+| replies | integer | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. <br /> Example: 3 |
+| retweets | integer |  The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. <br /> Example: 3 |
+| favorites | integer |  The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. <br /> Example: 3 |
+| text | string | The content of a tweet that contains up to 280 characters. <br /> Example: H1N1 + H1N5 = Trouble... |
+| mentions | string | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. <br /> Example: @cyberlou33 |
+| hashtags | string | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search <br /> Example: #panflu |
+| id | string |  A unique identifier of a tweet. <br /> Example: 1136281607 |
+| permalink | string | The unique URL of a tweet. Whenever you view a Tweet's permanent link, you can see The exact time and date the Tweet was posted and the number of likes and Retweets the Tweet received. <br /> Example: https://twitter.com/douance_quebec/status/1096080744 |
 
 ## Usage
 
