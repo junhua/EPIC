@@ -33,11 +33,23 @@ Each class of data is contained by a single CSV file named after the respective 
 * retweets
 * favorites
 * text
-* geo
 * mentions
 * hashtags
 * id
 * permalink
+
+|    Field     |     Type    |    Sample     |          Description           |
+| ------------ | ----------- | ------------- | ------------------------------ |
+|     date     |   datetime (in UTC)  |  4/2/09 17:06 | The date and time that the tweet was posted |
+| username | string | douance_quebec | Unique username of the user account that posted the tweet |
+| to | string | CedricFontaine | The twitter account's username that the tweet that was posted to |
+| replies | integer | 3 | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. |
+| retweets | integer | 3 | The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. |
+| favorites | integer | 3 | The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. |
+| text | string | H1N1 + H1N5 = Trouble... | The content of a tweet that contains up to 280 characters. |
+| mentions | string | @cyberlou33 | Another account's Twitter username preceded by the "@" symbol. A mention is a Tweet that contains another person’s username anywhere in the body of the Tweet. |
+| hashtags | string | #panflu | The hashtags that the tweet includes. A hashtag is formed by a symbol (#) followed by a relevant keyword. Hashtags are commonly used or phrase in their Tweet to categorize those Tweets and help them show more easily in Twitter search |
+
 
 ## Usage
 
