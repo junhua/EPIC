@@ -30,7 +30,7 @@ Each class of data is contained by a single CSV file named after the respective 
 | ------------ | ----------- | ------------------------------ |
 |     date     |   datetime (in UTC) | The date and time that the tweet was posted. <br /> Example: 4/2/09 17:06 |
 | username | string | Unique username of the user account that posted the tweet <br /> Example: douance_quebec |
-| to | string | CedricFontaine | The twitter account's username that the tweet that was posted to <br /> Example:|
+| to | string | The twitter account's username that the tweet that was posted to <br /> Example: CedricFontaine |
 | replies | integer | The number of replies that the tweet has. A reply is a response to another person’s Tweet. You can reply by clicking or tapping the reply icon from a Tweet. <br /> Example: 3 |
 | retweets | integer |  The number of retweets that the tweet has. A tweet that a user shares publicly with his/her followers is known as a Retweet, which is a conventional way to pass along news and interesting discoveries on Twitter. <br /> Example: 3 |
 | favorites | integer |  The number of favorites the tweet receives. Favourites are represented by a small heart and are used to show appreciation for a Tweet. <br /> Example: 3 |
